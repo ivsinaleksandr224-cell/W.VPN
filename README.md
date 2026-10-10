@@ -16,4 +16,4 @@ Pull requests приветствуются! Если нашли баг или х
 
 ## 📄 Лицензия
 
-Этот проект распространяется под лицензией MIT. См. файл LICENSE для деталей.
+Этот проект распространяется под лицензией MIT. См. файл [LICENSE](https://github.com/ivsinaleksandr224-cell/W.VPN/blob/main/LICENSE.txt) для деталей.
