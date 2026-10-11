@@ -25,4 +25,4 @@ Pull requests приветствуются! Если нашли баг или х
 
 ## ▶ СКАЧАТЬ W.VPN.APK
 
-Скачать мой проект можете [ЗДЕСЬ](https://ivsinaleksandr224-cell.github.io/ivsinalexandr224-cell.github.io/)
+Скачать мой проект можете [ЗДЕСЬ](https://ivsinaleksandr224-cell.github.io/w-vpn.github.io/)
